@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nouvo Media Formation — Réseaux sociaux & Bureautique",
+  title: "Nouvo Media Formation — Des formations aux IA génératives pour chaque métier",
   description:
-    "Organisme de formation Nouvo Media Formation : formations pratiques aux réseaux sociaux et à la bureautique, pour les particuliers, indépendants et entreprises.",
+    "Nouvo Media Formation (NMF) : organisme de formation aux IA génératives, au marketing digital et à la bureautique. Des programmes personnalisés pour chaque métier.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
