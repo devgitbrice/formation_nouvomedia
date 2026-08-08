@@ -465,7 +465,16 @@ export default function Home() {
         <div className="border-t border-white/10">
           <p className="mx-auto w-full max-w-6xl px-6 py-6 text-sm">
             © {new Date().getFullYear()} Nouvo Media Formation. Tous droits
-            réservés.
+            réservés. Un projet de{" "}
+            <a
+              href="https://www.nouvo.media"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium text-white hover:underline"
+            >
+              Nouvo Media
+            </a>
+            .
           </p>
         </div>
       </footer>
